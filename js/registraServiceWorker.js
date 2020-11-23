@@ -1,4 +1,4 @@
-registraServiceWorker();
+egistraServiceWorker();
 /** Registra un service worker para instalar la aplicación en el
  * caché del navegador. La palabra reservada async indica que no espera
  * a que termine y libera el registro de activación que lo llamó. */
